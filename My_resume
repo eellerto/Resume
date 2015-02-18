@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css"  href="My_resume.css">
+		<title>MyResume</title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name" >Elaine L. Ellerton</p>
+			<a href="mailto:eellerto@gmail.com"><p id="email">eellerto@gmail.com</p></a></div>
+		<div class="left"></div>
+		<div class="right">
+			<h3>Objective</h3>
+			<p>Reinventing myself.</p> <br>
+			<h3>Experience</h3>
+			<ul>
+				<li>2010-present: <a href="http://www.taylorandfrancis.com/">Taylor & Francis</a> </li>
+				<li>Postdoctoral Researcher at <a href="http://www.me.utexas.edu/">University of Texas at Austin</a></li>
+				<li>Graduate Student at <a href="http://neuroscience.utexas.edu/">Univeristy of Texas at Austin</a></li>
+				<li>Research Associate at <a href="http://www.salk.edu/">The Salk Institute for Biological Studies</a></li>
+			</ul><br>
+			<h3>Education</h3>
+			<ul>
+				<li>University of Texas at Austin: PhD in Neuroscience</li>
+				<li>Caifornia School of Professional Psychology: MS in physiological psychology</li>
+				<li>University of California, San Diego: BS in Biology</li>
+			</ul>
+
+			</div>
+		<div id="footer">
+			<p>3950 SW Othello St., Seattle, WA   98136</p>
+			<p text:"center">Tel | (858) 610-3507</p>
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</body>
